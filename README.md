@@ -1,4 +1,4 @@
-👋 Hi I'm Swethabharathi06
+👋 Hi, I'm Swethabharathi06
 
 - 🔭 I’m currently working on Full Stack
 - 🌱 I’m currently learning React
