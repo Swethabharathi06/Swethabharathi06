@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Swethabharathi06<br><br>🔭 I’m currently working on Full Stack<br>🌱 I’m currently learning React<br>👯 I’m looking to collaborate on Web Application Development<br>📫 How to reach me: www.linkedin.com/in/swethabharathi-m
+👋 Hi, I'm Swethabharathi06<br><br>🔭 I’m currently working on Full Stack Development <br>🌱 I’m currently learning React<br>👯 I’m looking to collaborate on Web Application Development<br>📫 How to reach me: www.linkedin.com/in/swethabharathi-m
 
 
 # 💻 Tech Stack:
